@@ -1,0 +1,96 @@
+@font-face{
+    font-family: 'Selima'; 
+    src: url("fonts/selima/Selima.woff") format('woff'); 
+}
+
+
+h1{
+  
+    font-family: 'Selima';   
+    src: url("fonts/selima/Selima.woff") format("woff");
+    font-size: 900%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5%;
+    text-align: center;
+    color: #feb101; 
+    
+  
+}
+
+h2{
+    font-family: 'Didact Gothic', sans-serif;
+    font-weight: normal;
+    color: #c2c2cb; 
+    text-align: center;
+    margin-top: 5%;
+    font-size: 200%;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+h3{
+    font-family: 'Selima';   
+    src: url("fonts/selima/Selima.woff") format("woff");
+    font-size: 400%;
+    margin-top: 0px;
+    margin-bottom: 3%;
+    text-align: center;
+}
+
+
+h4{
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 100%;
+    
+
+}
+h4.start, h4.yellow{font-size: 150%;     font-family: 'Didact Gothic', sans-serif; float:left;} 
+h4.yellow{color: #feb101; margin-left: 10px;}
+h4.start{color: #e3e3ea; margin-left: 35%;}
+h4.code{color: #feb101; background-color: #202020; font-size: 120%; padding: 2%; }
+h4.course{font-size: 115%; padding: 2%;}
+
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    line-height: 25px;
+}
+
+p.start{
+    width: 80%;
+    margin-left: 10%;
+    color: #e3e3ea;
+}
+
+p.footer{
+    font-family: 'Didact Gothic', sans-serif;
+    color: #c2c2cb;
+    text-align: center;
+    font-size: 120%;
+    width: 100%;
+}
+
+ul{
+    margin-bottom: 1%;
+}
+li{
+    font-family: 'Source Sans Pro', sans-serif;
+    list-style-type: none;
+    margin-top: 2%;
+}
+
+a:link{
+    color: #000;
+    text-decoration: none;
+    font-size: 110%;
+}
+
+a.part:hover{
+   background-color: #feb101;
+}
+
+a:visited{
+    color: #000;
+}

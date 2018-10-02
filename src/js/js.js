@@ -1,0 +1,1 @@
+console.log ("testhej"); // Extra JS-fil för uppgiften 

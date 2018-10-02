@@ -1,0 +1,43 @@
+/* Background colors style */ 
+
+body{
+    background-color: #050505;
+}
+
+#container{
+    width: 1024px;
+    max-width: 100%;
+    margin: 0px auto; 
+    background-color: #f2f2f2;
+}
+
+footer{
+    background-color: #050505;
+    display:inline-block;
+    width: 100%;
+    clear:both;
+}
+
+.col-1{ width: 100%; margin-bottom: 0px; }
+.col-2{ width: 724px; float:left; background-color:#202020; height: 300px; }
+.col-3{ float:left;}
+
+
+.col-4{
+    width:40%;
+    float:left;
+    height: 300px;
+    margin-left: 7%;
+}
+
+.col-5{
+    width: 40%;
+    height: 300px;
+    float:left;
+    margin-left: 6%;
+}
+
+.courses1{
+    background-color: #202020;
+}
+
